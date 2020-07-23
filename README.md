@@ -10,7 +10,7 @@ https://github.com/jamesrowe1/READMEGenerator
 
 ## Screenshot
 
-![codequiz](assets/readmeScreenshot.jpg)
+![readmegenerator](assets/readmeScreenshot.jpg)
 
 ## Getting Started
 
