@@ -21,7 +21,9 @@ function generateMarkdown(data) {
   ${data.logoLink}
 
   ## Questions
-  Github Username: ${data.githubUsername}
+  Github Username: ${data.githubUsername} 
+
+  Github Link: https://github.com/${data.githubUsername}
   
   Email: ${data.emailAddress}
 `;
