@@ -2,20 +2,13 @@
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Table of Contents
-  [Description](#description)
-
-  [Installation](#installation)
-
-  [Usage](#usage)
-
-  [License](#license)
-
-  [Contributing](#contributing)
-
-  [Tests](#tests)
-
-  [Questions](#questions)
-
+  1. [Description](#description)
+  2. [Installation](#installation)
+  3. [Usage](#usage)
+  4. [License](#license)
+  5. [Contributing](#contributing)
+  6. [Tests](#tests)
+  7. [Questions](#questions)
   
   ## Description<a name="description"></a>
    asdf
