@@ -1,28 +1,34 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `# ${data.title}<a name="title"></a>
   ${data.logoLink}
 
   ## Description<a name="description"></a>
    ${data.description}
 
   ## Table of Contents
+  [Title](#title)
   [Description](#description)
+  [Installation](#installation)
+  [Usage](#usage)
+  [License](#license)
+  [Contributing](#contributing)
+  [Tests](#tests)
   [Questions](#questions)
 
-  ## Installation
+  ## Installation<a name="installation"></a>
   ${data.installationInstructions}
 
-  ## Usage
+  ## Usage<a name="usage"></a>
   ${data.usageInformation}
 
-  ## License
+  ## License<a name="license"></a>
   This app is licensed under ${data.license}
 
-  ## Contributing
+  ## Contributing<a name="contributing"></a>
   ${data.contributionGuidelines}
 
-  ## Tests
+  ## Tests<a name="tests"></a>
   ${data.testInstructions}
 
   ## Questions<a name="questions"></a>
