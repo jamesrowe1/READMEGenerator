@@ -79,7 +79,7 @@ function init() {
     console.log(answers);
     let readmeText = generateMarkdown(answers);
 
-    writeToFile("README.md", readmeText);
+    writeToFile("Output/README.md", readmeText);
   });
 }
 
