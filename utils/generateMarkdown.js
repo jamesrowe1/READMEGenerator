@@ -4,13 +4,13 @@ function generateMarkdown(data) {
   ${data.logoLink}
 
   ## Table of Contents
-  [Description](#description)\n
-  [Installation](#installation)\n
-  [Usage](#usage)\n
-  [License](#license)\n
-  [Contributing](#contributing)\n
-  [Tests](#tests)\n
-  [Questions](#questions)\n
+  1. [Description](#description)
+  2. [Installation](#installation)
+  3. [Usage](#usage)
+  4. [License](#license)
+  5. [Contributing](#contributing)
+  6. [Tests](#tests)
+  7. [Questions](#questions)
   
   ## Description<a name="description"></a>
    ${data.description}
