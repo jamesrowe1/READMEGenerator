@@ -2,11 +2,13 @@
 function generateMarkdown(data) {
   return `# ${data.title}
   ${data.logoLink}
-  
-  ## Description
+
+  ## Description<a name="description"></a>
    ${data.description}
 
   ## Table of Contents
+  [Description](#description)
+  [Questions](#questions)
 
   ## Installation
   ${data.installationInstructions}
@@ -23,7 +25,7 @@ function generateMarkdown(data) {
   ## Tests
   ${data.testInstructions}
 
-  ## Questions
+  ## Questions<a name="questions"></a>
   Github Username: ${data.githubUsername} 
 
   Github Link: https://github.com/${data.githubUsername}

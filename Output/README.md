@@ -1,26 +1,31 @@
 # asdf
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  ## Description
+  ## Description<a name="description"></a>
    asdf
 
-  ## Installation Instructions
+  ## Table of Contents
+  [Description](#description)
+  [Questions](#questions)
+
+  ## Installation
   asdf
 
-  ## Usage Information
-  asdf
-
-  ## Contribution Guidelines
-  asdf
-
-  ## Test Instructions
+  ## Usage
   asdf
 
   ## License
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  This app is licensed under MIT
 
-  ## Questions
-  Github Username: jamesrowe1 
+  ## Contributing
+  asdf
 
-  Github Link: https://github.com/jamesrowe1
-  
-  Email: asdf
+  ## Tests
+  asdf
+
+  ## Questions<a name="questions"></a>
+  Github Username: asdf 
+
+  Github Link: https://github.com/asdf
+
+  Please send an email to asdf for any additional questions.
