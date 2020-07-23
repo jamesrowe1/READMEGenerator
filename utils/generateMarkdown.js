@@ -3,6 +3,9 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${data.logoLink}
 
+  ## Title
+  ${data.title} 
+  
   ## Table of Contents
   1. [Description](#description)
   2. [Installation](#installation)
