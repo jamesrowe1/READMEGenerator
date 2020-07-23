@@ -1,5 +1,5 @@
 # asdf
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
 
   ## Table of Contents
   1. [Description](#description)
@@ -20,7 +20,7 @@
   asdf
 
   ## License<a name="license"></a>
-  This app is licensed under MIT
+  This app is licensed under Mozilla MPL 2.0
 
   ## Contributing<a name="contributing"></a>
   asdf
