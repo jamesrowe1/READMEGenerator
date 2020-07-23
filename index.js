@@ -7,7 +7,7 @@ const { title } = require("process");
 
 // array of questions for user
 const questions = [
-  { name: "title", message: "Project Title:", type: "input" },
+  { name: "title", message: "Enter Project Title:", type: "input" },
   { name: "description", message: "Enter a Description:", type: "input" },
   {
     name: "installationInstructions",
