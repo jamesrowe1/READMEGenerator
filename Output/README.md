@@ -1,8 +1,8 @@
-# Example for Video
+# README Generator Video Example
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Title
-  Example for Video 
+  README Generator Video Example 
   
   ## Table of Contents
   1. [Description](#description)
@@ -14,22 +14,22 @@
   7. [Questions](#questions)
   
   ## Description<a name="description"></a>
-   Creating an example video
+   An example for the video I am creating
 
   ## Installation<a name="installation"></a>
   Type node index
 
   ## Usage<a name="usage"></a>
-  Feel free to use
+  Use as you like
 
   ## License<a name="license"></a>
   This app is licensed under MIT
 
   ## Contributing<a name="contributing"></a>
-  Ben and Wilson
+  James Rowe
 
   ## Tests<a name="tests"></a>
-  Test as much as you like
+  Not really needed here
 
   ## Questions<a name="questions"></a>
   Github Username: jamesrowe1 
