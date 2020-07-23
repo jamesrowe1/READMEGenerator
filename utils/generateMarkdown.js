@@ -2,6 +2,7 @@
 function generateMarkdown(data) {
   return `# ${data.title}
   ${data.logoLink}
+  
   ## Description
    ${data.description}
 
