@@ -21,7 +21,7 @@ const questions = [
   },
   {
     name: "contributionGuidelines",
-    message: "Enter Contribution Guidelines:",
+    message: "Enter Contributions:",
     type: "input",
   },
   {
@@ -71,7 +71,9 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
+  //ask the questions
   inquirer.prompt(questions).then((answers) => {
+    //create the
     var licenseLogoLink = licenseArr.filter(
       (logo) => logo.licenseName === answers.license
     );
